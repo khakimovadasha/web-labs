@@ -23,7 +23,7 @@
 
 header>nav.navigation>ul.navigation__list>li.navigation__item>a.nav__link
 
-![alt text](https://github.com/khakimovadasha/web-labs/blob/lab1/2023-02-19_22-25-59.png)
+![alt text](https://github.com/khakimovadasha/web-labs/blob/lab1/photo_5253533117078160392_y.jpg)
 
 
 form.form>h2.form__heading>p.form__text>(div.form__container>input.form__input>button.form_button)
