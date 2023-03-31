@@ -21,7 +21,7 @@
 
 ## Задание 2
 
-header>img.logo+nav.navigation>ul.navigation__list>li.navigation__item>a.nav__link
+header>img.logo+(nav.navigation>ul.navigation__list>li.navigation__item>a.nav__link)+a.link>svg.menu
 
 ![alt text](https://github.com/khakimovadasha/web-labs/blob/lab1/photo_5253533117078160392_y.jpg)
 
